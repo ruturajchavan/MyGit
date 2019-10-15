@@ -4,7 +4,7 @@ class HelloGit{
 
 public static void main(String args[])
 {
-sysout("welcome to git")
+system.out.println("welcome to git")
 }
 
 }

@@ -2,10 +2,13 @@
 
 class HelloGit{
 
-		static String myMethod(){
-			sysout("Mymethod");
+
+		static String myMethod(String str){
+			System.out.println(str);
 		
-		}
+
+	
+		
 		public static void main(String args[])
 		{
 			myMethod();

@@ -4,7 +4,8 @@ class HelloGit{
 
 		public static void main(String args[])
 		{
-			system.out.println(" Java application to ...welcome to git....!!!****")
+			system.out.println(" this will print.......welcome to git !!!")
+
 		}
 
 }
